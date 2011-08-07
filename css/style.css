@@ -1,0 +1,196 @@
+
+/***************************************************************
+ Gurski IDE
+ @autor Doglas A. Dembogurski Feix dembogurski@gmail.com
+ date: 06 07 2009
+****************************************************************/
+
+ /* This is for modeling de Main Layout*/
+
+ 
+.panel_north_collapser,
+.panel_east_collapser,
+.panel_south_collapser,
+.panel_west_collapser {
+	background: #ccc;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.panel_north {
+ padding: 8px;
+}
+.panel_south {
+ padding: 0px;
+}
+.panel_north,
+.panel_south,
+.panel_east,
+.panel_west,
+.panel_center { 
+ background: #eee;
+ border: 1px solid #ccc; 
+}
+.panel_east,
+.panel_west {
+ padding: 0; 
+}
+
+.loginPanel{
+	font-family: Verdana, Arial, Tahoma;
+	font-size: 14px;			
+	border-style: outset outset outset outset;	
+	-moz-border-radius: 9px 9px 9px 9px;
+	 background-image: url(../images/skysilver.png);
+   /* background-image: url(../images/login.png);*/
+}
+.registrationPanel{
+	font-family: Verdana, Arial, Tahoma;
+	font-size: 14px;
+	border-style: outset outset outset outset;
+	-moz-border-radius: 9px 9px 9px 9px;
+   background-image: url(../images/skyblue.png);
+}
+
+.combobox{
+	background-color:  white;
+  	font-family: Verdana, Arial, Tahoma;
+	font-size: 13px;
+	border-width:1px;
+	height: 20px;
+	border-color: black black black black;
+	font-weight:bolder;
+}
+ 
+.textfield{	 
+	background-color:  white;
+  	font-family: Verdana, Arial, Tahoma;
+	font-size: 12px;			
+	border-width:1px;
+	height: 22px;
+	border-color: black black black black;
+	font-weight: bold;
+} 
+
+.label{
+	font-size: 12px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bolder;
+	color: #000000;
+}
+.msggrensmall{  /* small green messages*/
+	font-size: 10px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bolder;
+	color: green;
+}
+.msgredsmall{  /*small error messages */
+	font-size: 10px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bolder;
+	color: red;
+}
+.loading_msg{  /*form ajax loading messages*/
+	font-size: 11px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bold;
+	color: black;
+}
+.msg{  /*simple messages*/
+	font-size: 11px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bold;
+	color: black;
+}
+.info{ /*information messages */
+	font-size: 12px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bold;
+	color: black;
+    height: 35px;
+    background: #FFF1A8;
+}
+.display_error{ /*error messages */
+ 	font-size: 12px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bold;
+	color: orange;
+    height: 28px;
+    text-align:center;
+    background-image: url(../images/ui-bg_diagonals-thick_18_b81900_40x40.png);
+    background-repeat:repeat;
+}
+.message{
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    background:#ffc;
+    padding:5px;
+    border:1px solid #CCCCCC;
+    text-align:center;
+    font-weight:bold;
+    width: 34%;
+    height: 18px;
+    margin-top: 0px;
+    margin-left: 33%;
+    margin-right: 33%;
+    -moz-border-radius: 0px 0px 4px 4px;
+ }
+.button{ /*type = button*/
+    border:1px solid #BBBBBB;
+    color:black;
+	font-size: 11px;
+	font-family: Arial,sans-serif, Tahoma, Verdana;
+	font-weight:bolder;
+    background:rgb(255,240,255);
+    height:22px;
+}
+.button:disabled{
+    border:1px solid #BBBBBB;
+    color:gray;
+	font-size: 11px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bolder;
+    background:rgb(255,240,255);
+    height:22px;
+}
+
+
+.zebra0{  /*Table rows zebra collors zebra0 even zebra1 odd  */
+   background-color:#ffffff ;	
+}
+.zebra1{
+   background-color: #EDEDEE /*#C3D9FF;*/
+}
+.file{
+    font-family:  Tahoma, Verdana, Arial;
+    font-size: 12px;
+}
+.file hover{
+    font-family:  Tahoma, Verdana, Arial;
+    font-size: 13px;
+    background-color: blue;
+}
+
+.project_list{
+	font-size: 11px;
+	font-family:  Tahoma, Verdana, Arial;
+	font-weight:bold;
+	color: black;
+    height: 20px;
+    background:white url(../images/gurski_project.gif) no-repeat scroll left center;
+    list-style-type:none;
+    margin-bottom:3px;
+    padding-left:22px; 
+}
+.file_context_menu{
+    font-family:  Tahoma, Verdana, Arial;
+    font-size: 12px;
+    background-image:  url('../images/fileproperties.png');
+    padding:2px 0px 2px 2px;
+    background-repeat: no-repeat;
+}
+

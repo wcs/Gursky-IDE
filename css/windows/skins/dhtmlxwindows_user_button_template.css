@@ -1,0 +1,33 @@
+/* USER-BUTTON TEMPLATE CSS */
+
+/* %skin%		replace with skin name		*/
+/* %button_root_folder% replace with button root folder	*/
+/* %button_name% 	replace with button name	*/
+/* %button_filename% 	replace with button filename	*/
+
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_default {
+	background-image: url("../imgs/%button_root_folder%/active/btns_default/%button_filename%");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_default {
+	background-image: url("../imgs/%button_root_folder%/inactive/btns_default/%button_filename%");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_disabled {
+	background-image: url("../imgs/%button_root_folder%/active/btns_disabled/%button_filename%");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_disabled {
+	background-image: url("../imgs/%button_root_folder%/inactive/btns_disabled/%button_filename%");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_over_default {
+	background-image: url("../imgs/%button_root_folder%/active/btns_over_default/%button_filename%");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_over_default {
+	background-image: url("../imgs/%button_root_folder%/inactive/btns_over_default/%button_filename%");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_over_pressed {
+	background-image: url("../imgs/%button_root_folder%/active/btns_over_pressed/%button_filename%");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_%skin% table td div.button_%button_name%_over_pressed {
+	background-image: url("../imgs/%button_root_folder%/inactive/btns_over_pressed/%button_filename%");
+}
+
+

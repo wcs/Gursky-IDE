@@ -1,0 +1,30 @@
+/* "WEB" SKIN */
+
+/* user button: tray */
+
+div.dhtmlx_window_active div.buttons_web table td div.button_tray_default {
+	background-image: url("../imgs/dhxwins_web_button_tray/active/btns_default/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.buttons_web table td div.button_tray_default {
+	background-image: url("../imgs/dhxwins_web_button_tray/inactive/btns_default/btn_tray.gif");
+}
+div.dhtmlx_window_active div.buttons_web table td div.button_tray_disabled {
+	background-image: url("../imgs/dhxwins_web_button_tray/active/btns_disabled/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.buttons_web table td div.button_tray_disabled {
+	background-image: url("../imgs/dhxwins_web_button_tray/inactive/btns_disabled/btn_tray.gif");
+}
+div.dhtmlx_window_active div.buttons_web table td div.button_tray_over_default {
+	background-image: url("../imgs/dhxwins_web_button_tray/active/btns_over_default/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.buttons_web table td div.button_tray_over_default {
+	background-image: url("../imgs/dhxwins_web_button_tray/inactive/btns_over_default/btn_tray.gif");
+}
+div.dhtmlx_window_active div.buttons_web table td div.button_tray_over_pressed {
+	background-image: url("../imgs/dhxwins_web_button_tray/active/btns_over_pressed/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.buttons_web table td div.button_tray_over_pressed {
+	background-image: url("../imgs/dhxwins_web_button_tray/inactive/btns_over_pressed/btn_tray.gif");
+}
+
+

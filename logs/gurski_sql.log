@@ -1,0 +1,149 @@
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+
+select id_usuario from usuarios where nick = 'douglas'
+
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,0 , 'douglas', CURRENT_TIMESTAMP, 'Try Login from 127.0.0.1 unsuccessfully');
+
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+
+select id_usuario from usuarios where nick = 'douglas'
+
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,0 , 'douglas', CURRENT_TIMESTAMP, 'Try Login from 127.0.0.1 unsuccessfully');
+
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+
+select id_usuario from usuarios where nick = 'douglas'
+
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,0 , 'douglas', CURRENT_TIMESTAMP, 'Try Login from 127.0.0.1 unsuccessfully');
+
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+
+select id_usuario from usuarios where nick = 'douglas'
+
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,0 , 'douglas', CURRENT_TIMESTAMP, 'Try Login from 127.0.0.1 unsuccessfully');
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'invited' and passw = '200b57390a8a7a35122bb997aca01f3305c42a80';
+select id_usuario,nick from usuarios where nick = 'invited' and passw = '200b57390a8a7a35122bb997aca01f3305c42a80';
+select id_usuario,nick from usuarios where nick = 'invited' and passw = '200b57390a8a7a35122bb997aca01f3305c42a80';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'invited' and passw = '200b57390a8a7a35122bb997aca01f3305c42a80';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'doudlas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario from usuarios where nick = 'doudlas'
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,0 , 'doudlas', CURRENT_TIMESTAMP, 'Try Login from 127.0.0.1 unsuccessfully');
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'f6316d9db8000b1c7a9568c82b00f6907a67cee5';
+select id_usuario from usuarios where nick = 'douglas'
+insert into logs(id_log,id_usuario, nick, fecha, log)
+         values(default,22 , 'douglas', CURRENT_TIMESTAMP, 'Try Login from 192.168.0.250 unsuccessfully');
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'invited' and passw = '200b57390a8a7a35122bb997aca01f3305c42a80';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';
+select id_usuario,nick from usuarios where nick = 'douglas' and passw = 'ac7be86790c08b0ef38c6acb3da3295bb1833c63';

@@ -1,0 +1,31 @@
+/* 
+Document   : source_editor.css
+Created on : 24-ago-2009, 19:40:31
+Author     : Doglas A. Dembogurski Feix
+Description: Gurski Source Editor style
+
+*/
+
+.source_editor{
+    width:800px;
+    border-left:2px solid #e3e3e3;
+    padding:4px; 
+}
+
+.CodeMirror-line-numbers {
+    width: 3.0em;
+    color: black;
+    background-color: #F5F6CE;  /*  #eee; */
+    text-align: right;
+    padding-right: .3em;
+    font-size: 10pt;
+    font-family: monospace;
+    padding-top: .4em;
+    border-width: 0px 1px 0px 0px;
+    border-color: silver silver silver silver;
+    border-style: outset outset outset outset;
+}
+
+
+
+

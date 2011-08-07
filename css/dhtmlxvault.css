@@ -1,0 +1,25 @@
+input.hidden {
+    z-index: 3;
+    filter: alpha(opacity: 0);
+    text-align: left;
+    opacity: 0;
+    -moz-opacity: 0;
+    cursor: pointer;
+    left: 1px;
+    position: absolute;
+    height: 25px;
+}
+a.link:hover, a.link:visited, a.link:link {color: #0033CC;}
+
+.fileName, .text, a.link:hover, a.link:visited, a.link:link {font-size: 11px;font-family: Tahoma, Arial, Helvetica, sans-serif;}
+.fileName {line-height:11px !important;}
+.btnAddDiv {left:-15px;}
+.dhxvlt_panelbg {background-color:#eceef4;}
+.dhxvlt_panelborder {border: 1px solid #a4bed4;}
+.dhxvlt_panel2border {border:1px solid #a4bed4;}
+.dhxvlt_row {background: none;}
+.dhxvlt_row table {border-bottom:1px solid #E2E2E2;}
+.dhxvlt_rowsel {background: url(../images/vault/rowsel.gif);}
+.dhxvlt_rowsel table {border-bottom:1px solid #ffffff !important;}
+.dhxvlt_txtremove {display:none;}
+#dhxvlt_icoremove {position:relative;top:7px;width:16px;height:16px;background: url(../images/vault/ico_delete.gif);cursor: pointer;}

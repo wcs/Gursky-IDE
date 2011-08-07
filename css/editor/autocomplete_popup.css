@@ -1,0 +1,67 @@
+
+.pop {
+   z-index:2; 
+   position:absolute; 
+   border: 1px solid #333333; 
+   text-align:left; 
+   background-color: orange;
+   font:monospace, Arial, Verdana, Helvetica, sans-serif; 
+   font-size:12px; 
+   margin-left:-25px;
+   margin-top:-65px; 
+} 
+
+.cerrar {
+   float:right; 
+   margin-right:5px; 
+   cursor:pointer; 
+   font: monospace,Verdana, Arial, Helvetica, sans-serif;
+   font-size:11px; 
+   font-weight:bold; 
+   color:#FFFFFF; 
+   background-color:#666666; 
+   width:12px; 
+   position:relative; 
+   margin-top:-1px; 
+   text-align:center; 
+}
+
+.lista {
+   background-color:  #eea;
+   margin: 0px 0px 0px 20px
+}
+ 
+.lista.selected{
+   	  background-color: lightblue; 
+   	  font-size:12px;
+   	  font-weight:bolder; 
+}
+
+/*Class for funtion list*/
+.functions {
+   z-index:2;
+   position:relative;
+   border: 0px solid #333333;
+   text-align:left;
+   background-color: #F5F6CE;  /*  #eee; */
+   font-family: monospace, Helvetica, sans-serif,Verdana;
+   font-size: 8pt; /*font-size:12px;*/
+   margin:0px 0px 0px 0px;
+   font-weight:bolder;
+   color:black;
+}
+.function.selected{
+   	  background-color: orange;
+   	  font-size: 9pt; /*font-size:12px;*/
+   	  font-weight:bolder;
+      margin:0px 0px 0px 0px;
+ }
+.fn_over{
+      background: orange;
+      height: 16px;
+    }
+.fn_out{
+     background: none;
+     height: 16px;
+ }
+

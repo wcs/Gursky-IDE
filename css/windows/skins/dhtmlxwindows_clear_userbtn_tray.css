@@ -1,0 +1,28 @@
+/* "CLEAR BLUE" USER BUTTON TRAY */
+
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_default {
+	background-image: url("../imgs/dhxwins_clear_button_tray/active/btns_default/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_default {
+	background-image: url("../imgs/dhxwins_clear_button_tray/inactive/btns_default/btn_tray.gif");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_disabled {
+	background-image: url("../imgs/dhxwins_clear_button_tray/active/btns_disabled/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_disabled {
+	background-image: url("../imgs/dhxwins_clear_button_tray/inactive/btns_disabled/btn_tray.gif");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_over_default {
+	background-image: url("../imgs/dhxwins_clear_button_tray/active/btns_over_default/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_over_default {
+	background-image: url("../imgs/dhxwins_clear_button_tray/inactive/btns_over_default/btn_tray.gif");
+}
+div.dhtmlx_window_active div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_over_pressed {
+	background-image: url("../imgs/dhxwins_clear_button_tray/active/btns_over_pressed/btn_tray.gif");
+}
+div.dhtmlx_window_inactive div.dhtmlx_wins_buttons_clear_blue table td div.button_tray_over_pressed {
+	background-image: url("../imgs/dhxwins_clear_button_tray/inactive/btns_over_pressed/btn_tray.gif");
+}
+
+

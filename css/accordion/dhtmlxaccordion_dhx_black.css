@@ -1,0 +1,90 @@
+/* MAIN OBJ */
+div.dhx_acc_base_dhx_black {
+	overflow: hidden;
+	background-color: #000000;
+	/*
+	border-top: #609BCA 1px solid;
+	border-left: #609BCA 1px solid;
+	border-right: #C2D9EB 1px solid;
+	border-bottom: none;
+	*/
+}
+
+/* SINGLE ITEM */
+div.dhx_acc_item_dhx_black {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	padding-bottom: 1px;
+}
+div.dhx_acc_item_hidden_dhx_black {
+	display: none;
+}
+/* label */
+div.dhx_acc_item_dhx_black div.dhx_acc_item_label_dhx_black {
+	position: relative;
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	height: 22px;
+	line-height: 20px;
+	border: #333333 1px solid;
+	vertical-align: middle;
+	overflow: hidden;
+	background-image: url("../images/accordion/dhxaccord_dhx_black/dhtmlxaccordion_bg.png");
+	background-position: top;
+	background-repeat: repeat-x;
+	-moz-user-select: none;
+	cursor: default;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+/* icon */
+div.dhx_acc_item_dhx_black div.dhx_acc_item_label_dhx_black img.dhx_acc_item_icon_dhx_black {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	right: 4px;
+	top: 3px;
+}
+/* content */
+div.dhx_acc_item_dhx_black div.dhx_acc_item_content_opened_dhx_black {
+	awidth: 100%;
+	overflow: hidden;
+	position: relative;
+	aborder-bottom: #C2D9EB 1px solid;
+	amargin-top: 1px;
+	margin-top: 1px;
+}
+div.dhx_acc_item_dhx_black div.dhx_acc_item_content_opened_dhx_black div.dhtmlx_wins_body_content {
+	position: relative;
+}
+div.dhx_acc_item_dhx_black div.dhx_acc_item_content_closed_dhx_black {
+	display: none;
+}
+/* accordion attached to window */
+.dhtmlxAccordionAttached {
+	border: none !important;
+}
+div.dhx_acc_item_dhx_black div.dhtmlxWindowMainContent {
+	amargin-top: 1px;
+	amargin-bottom: 1px;
+}
+/* inner window */
+div.dhx_acc_item_dhx_black div.dhx_acc_item_content_opened_dhx_black div.dhtmlxWindowMainContent {
+	background-color: #FFFFFF;
+	border: 1px solid #333333;
+}
+.dhxAccordLabelIEFix_dhx_black {
+	height: 24px;
+	line-height: 18px;
+}
+.dhxAccordPolyIEFix_dhx_black {
+	padding-bottom: 2px;
+	padding-right: 2px;
+}
+/* tabbar */
+div.dhx_acc_item_dhx_black div.dhx_tabbar_row {
+	background-color: #000000;
+}
